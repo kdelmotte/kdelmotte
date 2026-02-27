@@ -8,4 +8,4 @@ I'm a product manager who builds things. These repos aren't side projects, they'
 
 **Why I build:** I think the best PMs understand the medium they're working in. Both apps are wired into Groq's inference APIs, Whisper large-v3 for transcription, reasoning models with tuned token budgets and temperature-zero determinism for text correction. I care about the details that make AI feel invisible: context-aware prompt routing, adaptive reasoning effort based on input complexity, and hallucination filtering on silent audio. These started as scratching my own itch and turned into real, shipped software, code-signed, notarized, and distributed via DMG.
 
-I'm always looking for the next piece of daily friction to automate. If you try either app, I'd love to hear what you think, open an issue or reach out.
+I'm always looking for the next piece of daily friction to automate. If you try either app, I'd love to hear what you think, open an issue or reach out!
