@@ -1,6 +1,6 @@
 ### Hey, I'm Kevin.
 
-I'm a product manager who builds things. These repos aren't side projects, they're tools I use every single day to work faster.
+I'm a product manager who builds things. These repos are both side projects and tools I use every single day to work faster.
 
 **[Mumble](https://github.com/kdelmotte/Mumble)** — Hold Fn, talk, release. Mumble transcribes your speech via Groq Whisper, detects the app you're in (email? Slack? VS Code?), and formats the output to match the context. Menu bar app, zero dependencies, signed and notarized.
 
