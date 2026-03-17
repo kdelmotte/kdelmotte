@@ -1,11 +1,13 @@
 ### Hey, I'm Kevin.
 
-I'm a product manager who builds things. These repos are both side projects and tools I use every single day to work faster.
+I'm a product manager who builds things. My repos span shipped apps, side projects, and private systems I use to explore new ideas in software, automation, and decision-making.
 
 **[Mumble](https://github.com/kdelmotte/Mumble)** — Hold Fn, talk, release. Mumble transcribes your speech via Groq Whisper, detects the app you're in (email? Slack? VS Code?), and formats the output to match the context. Menu bar app, zero dependencies, signed and notarized.
 
-**[TypoFixr](https://github.com/kdelmotte/TypoFixr)** — Cmd+Shift+D (or the shortcut of your choice) in any text field on macOS. Fixes typos and grammar while preserving your voice, no rewrites, just corrections. Parallel sentence chunking under the hood, to make it lightning fast.
+**TypoFixr** — Hit a shortcut in any text field and TypoFixr fixes typos and grammar while preserving your voice. It's a macOS app designed to feel fast and intuitive, with parallel sentence chunking under the hood to keep it lightweight and responsive.
 
-**Why I build:** I think the best PMs understand the medium they're working in. Both apps are wired into Groq's inference APIs, Whisper large-v3 for transcription, reasoning models with tuned token budgets and temperature-zero determinism for text correction. I care about the details that make AI feel invisible: context-aware prompt routing, adaptive reasoning effort based on input complexity, and hallucination filtering on silent audio. These started as scratching my own itch and turned into real, shipped software, code-signed, notarized, and distributed via DMG.
+**What else I'm building:** Alongside those apps, I'm also working on a set of private projects tied to side ventures and investment research, including AI agents, monitoring systems, event prediction algorithms, and decision-support workflows. I'm especially interested in building systems that turn noisy inputs into reliable outputs, surface the right information at the right time, and make complex workflows feel simple.
 
-I'm always looking for the next piece of daily friction to automate. If you try either app, I'd love to hear what you think, open an issue or reach out!
+**Why I build:** I think the best PMs understand the medium they're working in. I care about the details that make software feel invisible: context-aware prompt routing, deterministic behavior where it matters, strong observability, and interfaces that reduce friction instead of adding it. Most of my projects start as practical tools, then evolve into real products or long-lived internal systems.
+
+I'm always looking for the next problem worth automating. If you try Mumble or TypoFixr, I'd love to hear what you think, open an issue or reach out!
