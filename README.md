@@ -4,7 +4,7 @@ I'm a product manager who builds things. My repos span shipped apps, side projec
 
 **[Mumble](https://github.com/kdelmotte/Mumble)** — Hold Fn, talk, release. Mumble transcribes your speech via Groq Whisper, detects the app you're in (email? Slack? VS Code?), and formats the output to match the context. Menu bar app, zero dependencies, signed and notarized.
 
-**[TypoFixr](https://kdelmotte.github.io/TypoFixr/)** — Hit a shortcut in any text field and TypoFixr fixes typos and grammar while preserving your voice. It's a macOS app designed to feel fast and intuitive, with parallel sentence chunking under the hood to keep it lightweight and responsive.
+**[TypoFixr](https://kdelmotte.github.io/TypoFixr/)** — Hit a shortcut in any text field and TypoFixr instantly fixes typos and grammar while preserving your voice. It's a macOS app designed to feel fast and intuitive, with parallel sentence chunking under the hood to keep it lightweight and responsive. Feels like magic!
 
 **What else I'm building:** Alongside those apps, I'm also working on a set of private projects tied to side ventures and investment research, including AI agents, monitoring systems, event prediction algorithms, and decision-support workflows. I'm especially interested in building systems that turn noisy inputs into reliable outputs, surface the right information at the right time, and make complex workflows feel simple.
 
